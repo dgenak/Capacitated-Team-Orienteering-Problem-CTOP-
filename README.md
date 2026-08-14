@@ -70,3 +70,7 @@ Seeds and iteration counts were selected empirically after multiple trial runs, 
 ## Output
 
 Final routes are written to solution_no_mandatory.txt and solution_mandatory.txt, one route per line as space-separated node indices (starting and ending with 0).
+<img width="2558" height="1525" alt="image" src="https://github.com/user-attachments/assets/fedae0d6-92f9-4d60-b50c-89087b2f20da" />
+<img width="2558" height="1503" alt="image" src="https://github.com/user-attachments/assets/c41a9ca7-7315-4e3c-a2b9-5e68149c953a" />
+
+
